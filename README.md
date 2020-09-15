@@ -1,2 +1,2 @@
-# CloudLab_sem7
-FOSS and Cloud Computing Lab assignments
+# CloudLab sem7 assignments repo
+FOSS and cloud lab repository
